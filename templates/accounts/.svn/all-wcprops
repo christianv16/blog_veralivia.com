@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/242/trunk/techblog/templates/accounts
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/242/trunk/techblog/templates/accounts/login.html
+END
+accounts_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/242/trunk/techblog/templates/accounts/accounts_base.html
+END

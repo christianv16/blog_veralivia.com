@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/1049/branches/grappelli_2
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1049/branches/grappelli_2/admin.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1049/branches/grappelli_2/LICENSE
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1049/branches/grappelli_2/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1049/branches/grappelli_2/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1049/branches/grappelli_2/urls.py
+END
+fields.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1049/branches/grappelli_2/fields.py
+END
+sites.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/1049/branches/grappelli_2/sites.py
+END

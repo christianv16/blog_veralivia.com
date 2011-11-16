@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/520/trunk/techblog/templates/blog/posts
+END
+full.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/430/trunk/techblog/templates/blog/posts/full.html
+END
+brief.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/381/trunk/techblog/templates/blog/posts/brief.html
+END

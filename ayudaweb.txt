@@ -1,0 +1,42 @@
+
+ mejor que pude hacer hasta ahora es un script que crea el entorno
+>>> automaticamente e instala todo lo necesario para el codigo, pero solo
+>>> sirve para hacer la creacion del entorno, cualquier agregado va a
+>>> haber que agregarlo en todas las maquinas.
+>>
+>> virtualenv + buildout?
+>>
+>> Yo mostré algo de ese estilo en una charla en la tribu, hay video y todo
+>> :-)
+>>
+>> La idea general es que si tenés python + virtualenv + buildout instalados,
+>> podés hacer así:
+>>
+>> * Creás el virtualenv
+>> * Lo activás
+>> * Usás buildout para tener exactamente lo que necesitás para tu entorno
+>>
+>> Y listo, deberías obtener exactamente lo mismo siempre. Ni siquiera
+>> necesitás
+>> que el python que tenés sea siempre la misma versión. De hecho yo lo uso
+>> para
+>> poder probar rst2pdf contra 2.4 hasta 2.7
+>
+> No hay caso! Venía posponiendo exitosamente el mirar videos pero con esto me
+> mataste la eficiencia posponeril.
+>
+
+Otra opcion es usar pip.
+pip freeze -- te lista los paquetes que tenes en un virtualevn
+pip install -F archivo -- te instala todos los paquetes del archivo.
+
+Asique podes hacer algo del estilo:
+pip freeze > pepe.txt -- Esto lo haces en la maquina que tiene el
+virtualenv ahora
+pip install -F pepe.txt  -- esto lo haces en todas las maquinas en
+donde queres copiar el virtualenv
+
+Los dos comandos los tenes que correr con el virtualen activado.
+
+Saludos,
+TZ

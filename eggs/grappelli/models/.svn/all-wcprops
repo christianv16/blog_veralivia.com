@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1049/branches/grappelli_2/models
+END
+help.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1049/branches/grappelli_2/models/help.py
+END
+bookmarks.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1049/branches/grappelli_2/models/bookmarks.py
+END
+navigation.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1049/branches/grappelli_2/models/navigation.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1049/branches/grappelli_2/models/__init__.py
+END

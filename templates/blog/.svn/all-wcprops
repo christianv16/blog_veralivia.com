@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/538/trunk/techblog/templates/blog
+END
+entry.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/358/trunk/techblog/templates/blog/entry.html
+END
+month.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/431/trunk/techblog/templates/blog/month.html
+END
+search.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/364/trunk/techblog/templates/blog/search.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/509/trunk/techblog/templates/blog/index.html
+END
+manage.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/459/trunk/techblog/templates/blog/manage.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/532/trunk/techblog/templates/blog/base.html
+END
+write.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/319/trunk/techblog/templates/blog/write.html
+END
+tag.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/501/trunk/techblog/templates/blog/tag.html
+END
